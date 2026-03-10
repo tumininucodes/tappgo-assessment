@@ -4,7 +4,9 @@ A comprehensive React Native solution offering a native Android Spin Wheel compo
 
 ## Demo Reel
 
-[Watch the Spin Wheel Widget in Action](https://f005.backblazeb2.com/file/makemywears/spinwheel.mov)
+<video src="https://res.cloudinary.com/dc8ivje8d/video/upload/v1773137336/spinwheel_ikpfbg.mov" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 
 ## Key Deliverables
 
