@@ -2,9 +2,10 @@
 
 ## Demo Reel
 
-<video src="https://res.cloudinary.com/dc8ivje8d/video/upload/v1773137336/spinwheel_ikpfbg.mov" width="100%" controls>
-  Your browser does not support the video tag.
+<video src="https://res.cloudinary.com/dc8ivje8d/video/upload/v1773137336/spinwheel_ikpfbg.mov" controls>
 </video>
+
+[Download/Watch Video](https://res.cloudinary.com/dc8ivje8d/video/upload/v1773137336/spinwheel_ikpfbg.mov)
 
 ## Key Deliverables
 
