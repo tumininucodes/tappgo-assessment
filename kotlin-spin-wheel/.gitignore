@@ -1,0 +1,77 @@
+# Node.js
+**/node_modules/
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+.stylelintcache
+
+# Android
+.gradle/
+build/
+local.properties
+*.apk
+*.aar
+*.jks
+*.keystore
+*.flat
+capture/
+**/android/.gradle/
+**/android/build/
+**/android/local.properties
+**/android/app/build/
+
+# iOS
+**/ios/Pods/
+**/ios/build/
+**/ios/*.xcworkspace
+**/ios/.xccheckout
+**/ios/*.mode1v3
+**/ios/*.mode2v3
+**/ios/*.perspectivev3
+**/ios/xcuserdata/
+**/ios/DerivedData/
+**/ios/*.p12
+**/ios/*.mobileprovision
+**/ios/*.key
+**/ios/*.cer
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.iml
+*.ipr
+*.idea/modules.xml
+*.idea/workspace.xml
+*.idea/libraries
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+
+# React Native
+.expo/
+.expo-shared/
+.metro/
+.bundle/
+vendor/bundle/
+android/app/debug.keystore
+
+# Local development
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# Documentation
+docs/build/
+site/
