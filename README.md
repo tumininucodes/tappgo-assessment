@@ -2,6 +2,10 @@
 
 A comprehensive React Native solution offering a native Android Spin Wheel component and a synchronized Home Screen Widget. This project demonstrates bridging Kotlin native UI with React Native, featuring remote configuration and asset caching.
 
+## Demo Reel
+
+[Watch the Spin Wheel Widget in Action](https://f005.backblazeb2.com/file/makemywears/spinwheel.mov)
+
 ## Key Deliverables
 
 This project consists of three main parts:
